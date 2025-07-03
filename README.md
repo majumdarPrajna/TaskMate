@@ -115,4 +115,4 @@ https://jsonplaceholder.typicode.com/posts
 ## 👩‍💻 Author
 
 **Prajna Bharati Majumdar**  
-📫 [LinkedIn](https://linkedin.com/in/prajna-bharati) 
+📫 [LinkedIn](https://linkedin.com/in/PrajnaMajumdar) 
